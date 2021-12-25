@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structure & Algorithms.
 - 🤔 I’m looking for help with writing clean code.
 - 💬 Ask me to review your code - It will be great practice for myself!
-- 📫 How to reach me: [Email](j.alexandertech@outlook.com) or [LinkedIn](https://www.linkedin.com/in/jalexandertech/)
+- 📫 How to reach me: [Email](mailto:j.alexandertech@outlook.com) or [LinkedIn](https://www.linkedin.com/in/jalexandertech/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a cute little pug!
 
