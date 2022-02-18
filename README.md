@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
 - 🔭 I’m currently working on Codecademy - Fullstack Engineer Path. 
-- 🌱 I’m currently learning Data Structure & Algorithms.
+- 🌱 I’m currently learning Reactjs.
 - 🤔 I’m looking for help with writing clean code.
 - 💬 Ask me to review your code - It will be great practice for myself!
 - 📫 How to reach me: [Email](mailto:j.alexandertech@outlook.com) or [LinkedIn](https://www.linkedin.com/in/jalexandertech/)
